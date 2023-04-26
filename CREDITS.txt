@@ -1,0 +1,33 @@
+
+
+CREDITS FOR IMAGES:
+
+All background images are generated from Dalle 2: https://openai.com/product/dall-e-2
+ALL THE BACKGROUND IMAGES HAVE BEEN COMBINED IN A SINGLE SPRITE IMAGE.
+
+delete.jpg: Generated using Dalle 2 
+back.png: Image from https://www.pngwing.com/en/search?q=back+button
+
+
+
+CREDITS FOR FONT:
+
+Asimov.otff: This is the Asimov Font by 'KineticPlasma Fonts' from fontspace.com.
+
+
+
+CREDITS FOR SOUND:
+
+move.ogg: 
+https://freesound.org/people/mh2o/sounds/351518/
+
+drag.ogg: 
+https://freesound.org/people/ChaosEntertainment/sounds/396705/
+
+start.ogg:
+https://freesound.org/people/XfiXy8/sounds/467282/
+
+click.ogg:
+Link: https://freesound.org/people/Splatez07/sounds/413690/
+
+

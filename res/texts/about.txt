@@ -1,0 +1,8 @@
+Introducing ChessMate, a game that began as a modest 
+15-112 project and is going to evolve into so much 
+more. Initially, I embarked on ChessMate as an 
+assignment, intending to complete it within the two 
+week time frame given. However, my passion for continuous 
+improvement led me to keep expanding its features, a 
+process I still actively engage in today.
+
